@@ -1,5 +1,5 @@
 //designpatterns.state.Account.java
-package designpatterns.state;
+package com.designpatterns.state;
 
 //银行账户：环境类
 public class Account {

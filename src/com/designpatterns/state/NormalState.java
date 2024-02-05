@@ -1,5 +1,5 @@
 //designpatterns.state.NormalState.java
-package designpatterns.state;
+package com.designpatterns.state;
 
 //正常状态：具体状态类
 public class NormalState extends AccountState {

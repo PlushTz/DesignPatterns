@@ -1,5 +1,5 @@
 //designpatterns.visitor.HRDepartment.java
-package designpatterns.visitor;
+package com.designpatterns.visitor;
 
 //人力资源部类：具体访问者类
 public class HRDepartment extends Department {

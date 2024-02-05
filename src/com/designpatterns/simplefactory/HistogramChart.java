@@ -1,5 +1,5 @@
 //designpatterns.simplefactory.HistogramChart.java
-package designpatterns.simplefactory;
+package com.designpatterns.simplefactory;
 
 //柱状图类，充当具体产品类
 public class HistogramChart implements Chart {

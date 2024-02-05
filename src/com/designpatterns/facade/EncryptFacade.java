@@ -1,5 +1,5 @@
 //designpatterns.facade.EncryptFacade.java
-package designpatterns.facade;
+package com.designpatterns.facade;
 
 //加密外观类：外观类
 public class EncryptFacade {

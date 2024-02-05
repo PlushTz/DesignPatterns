@@ -1,5 +1,5 @@
 //designpatterns.interpreter.InstructionHandler.java
-package designpatterns.interpreter;
+package com.designpatterns.interpreter;
 import java.util.*;
 
 //指令处理类：工具类

@@ -1,5 +1,5 @@
 //designpatterns.state.screen.Screen.java
-package designpatterns.state.screen;
+package com.designpatterns.state.screen;
 
 //屏幕类：环境类
 public class Screen {

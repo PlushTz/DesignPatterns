@@ -1,5 +1,5 @@
 //designpatterns.observer.Observer.java
-package designpatterns.observer;
+package com.designpatterns.observer;
 
 //³éÏó¹Û²ìÀà
 public interface Observer {

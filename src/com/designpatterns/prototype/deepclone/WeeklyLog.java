@@ -1,5 +1,5 @@
 //designpatterns.prototype.deepclone.WeeklyLog.java
-package designpatterns.prototype.deepclone;
+package com.designpatterns.prototype.deepclone;
 import java.io.*;
 
 public class WeeklyLog implements Serializable {

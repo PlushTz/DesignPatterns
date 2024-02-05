@@ -1,4 +1,4 @@
-package designpatterns.command;
+package com.designpatterns.command;
 
 //帮助文档处理类：请求接收者
 public class HelpHandler {

@@ -1,5 +1,5 @@
 //designpatterns.visitor.Department.java
-package designpatterns.visitor;
+package com.designpatterns.visitor;
 
 //部门类：抽象访问者类
 public abstract class Department {

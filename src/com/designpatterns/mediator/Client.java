@@ -1,5 +1,5 @@
 //designpatterns.mediator.Client.java
-package designpatterns.mediator;
+package com.designpatterns.mediator;
 
 public class Client {
 	public static void main(String args[]) {

@@ -1,5 +1,5 @@
 //designpatterns.strategy.VIPDiscount.java
-package designpatterns.strategy;
+package com.designpatterns.strategy;
 
 //VIP会员票折扣类：具体策略类
 public class VIPDiscount implements Discount {

@@ -1,5 +1,5 @@
 //designpatterns.command.calculator.Client.java
-package designpatterns.command.calculator;
+package com.designpatterns.command.calculator;
 
 public class Client {
 	public static void main(String args[]) {

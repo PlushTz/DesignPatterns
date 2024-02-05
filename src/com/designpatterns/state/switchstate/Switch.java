@@ -1,5 +1,5 @@
 //designpatterns.state.switchstate.Switch.java
-package designpatterns.state.switchstate;
+package com.designpatterns.state.switchstate;
 
 public class Switch {
 	private static SwitchState currentState,onState,offState; //定义三个静态的状态对象

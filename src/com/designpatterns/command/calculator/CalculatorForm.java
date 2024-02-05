@@ -1,5 +1,5 @@
 //designpatterns.command.calculator.CalculatorForm.java
-package designpatterns.command.calculator;
+package com.designpatterns.command.calculator;
 
 //计算器界面类：请求发送者
 public class CalculatorForm {

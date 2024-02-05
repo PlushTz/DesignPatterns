@@ -1,5 +1,5 @@
 //designpatterns.abstractfactory.SummerSkinFactory.java
-package designpatterns.abstractfactory;
+package com.designpatterns.abstractfactory;
 
 public class SummerSkinFactory implements SkinFactory {
 	public Button createButton() {

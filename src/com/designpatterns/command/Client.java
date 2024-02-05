@@ -1,5 +1,5 @@
 //designpatterns.command.Client.java
-package designpatterns.command;
+package com.designpatterns.command;
 
 public class Client {
 	public static void main(String args[]) {

@@ -1,5 +1,5 @@
 //designpatterns.abstractfactory.SkinFactory.java
-package designpatterns.abstractfactory;
+package com.designpatterns.abstractfactory;
 
 public interface SkinFactory {
 	public Button createButton();

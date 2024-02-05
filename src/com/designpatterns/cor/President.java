@@ -1,5 +1,5 @@
 //designpatterns.cor.President.java
-package designpatterns.cor;
+package com.designpatterns.cor;
 
 //董事长类：具体处理者
 public class President extends Approver {

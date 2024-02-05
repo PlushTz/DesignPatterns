@@ -1,5 +1,5 @@
 //designpatterns.builder.Actor.java
-package designpatterns.builder;
+package com.designpatterns.builder;
  
 public class Actor {
 	private String type; //½ÇÉ«ÀàĞÍ

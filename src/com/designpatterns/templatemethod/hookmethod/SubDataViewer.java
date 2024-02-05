@@ -1,5 +1,5 @@
 //designpatterns.templatemethod.hookmethod.XMLDataViewer.java
-package designpatterns.templatemethod.hookmethod;
+package com.designpatterns.templatemethod.hookmethod;
 
 public class SubDataViewer extends DataViewer {
 	//实现父类方法：获取数据

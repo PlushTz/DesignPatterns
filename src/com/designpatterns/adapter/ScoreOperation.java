@@ -1,4 +1,4 @@
-package designpatterns.adapter;
+package com.designpatterns.adapter;
 
 //抽象成绩操作类：目标接口
 public interface ScoreOperation {

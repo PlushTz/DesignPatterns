@@ -1,4 +1,4 @@
-package designpatterns.adapter;
+package com.designpatterns.adapter;
 
 //快速排序类：适配者
 public class QuickSort {

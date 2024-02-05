@@ -1,5 +1,5 @@
 //designpatterns.proxy.dynamic.DocumentDAO.java
-package designpatterns.proxy.dynamic;
+package com.designpatterns.proxy.dynamic;
 
 //具体DocumentDAO类：真实角色
 public class DocumentDAO implements AbstractDocumentDAO {

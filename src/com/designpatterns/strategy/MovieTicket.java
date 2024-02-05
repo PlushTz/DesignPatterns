@@ -1,5 +1,5 @@
 //designpatterns.strategy.MovieTicket.java
-package designpatterns.strategy;
+package com.designpatterns.strategy;
 
 //电影票类：环境类
 public class MovieTicket {

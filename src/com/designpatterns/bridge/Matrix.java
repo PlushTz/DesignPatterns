@@ -1,5 +1,5 @@
 //designpatterns.bridge.Matrix.java
-package designpatterns.bridge;
+package com.designpatterns.bridge;
 
 //ÏñËØ¾ØÕóÀà£¬¸¨ÖúÀà
 public class Matrix {

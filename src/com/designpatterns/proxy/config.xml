@@ -1,4 +1,4 @@
 <?xml version="1.0"?>
 <config>
-	<className>designpatterns.proxy.ProxySearcher</className>
+	<className>com.designpatterns.proxy.ProxySearcher</className>
 </config>

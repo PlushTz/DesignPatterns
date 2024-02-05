@@ -1,5 +1,5 @@
 //designpatterns.facade.FileReader.java
-package designpatterns.facade;
+package com.designpatterns.facade;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;

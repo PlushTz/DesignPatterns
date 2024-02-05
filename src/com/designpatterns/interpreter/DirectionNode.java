@@ -1,5 +1,5 @@
 //designpatterns.interpreter.DirectionNode.java
-package designpatterns.interpreter;
+package com.designpatterns.interpreter;
 
 //方向解释：终结符表达式
 public class DirectionNode extends AbstractNode {

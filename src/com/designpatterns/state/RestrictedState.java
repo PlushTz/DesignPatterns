@@ -1,5 +1,5 @@
 //designpatterns.state.RestrictedState.java
-package designpatterns.state;
+package com.designpatterns.state;
 
 //受限状态：具体状态类
 public class RestrictedState extends AccountState {

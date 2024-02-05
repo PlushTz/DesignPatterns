@@ -1,11 +1,11 @@
 //designpatterns.flyweight.simple.IgoChessman.java
-package designpatterns.flyweight.simple;
+package com.designpatterns.flyweight.simple;
 
-//Î§ÆåÆå×ÓÀà£º³éÏóÏíÔªÀà
+//Î§ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½à£ºï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ôªï¿½ï¿½
 public abstract class IgoChessman {
 	public abstract String getColor();
 
 	public void display() {
-		System.out.println("Æå×ÓÑÕÉ«£º" + this.getColor());	
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É«ï¿½ï¿½" + this.getColor());	
 	}
 }

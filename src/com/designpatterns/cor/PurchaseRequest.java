@@ -1,5 +1,5 @@
 //designpatterns.cor.PurchaseRequest.java
-package designpatterns.cor;
+package com.designpatterns.cor;
 
 //采购单：请求类
 public class PurchaseRequest {

@@ -1,5 +1,5 @@
 //designpatterns.bridge.JPGImage.java
-package designpatterns.bridge;
+package com.designpatterns.bridge;
 
 //JPG格式图像类，充当扩充抽象类
 public class JPGImage extends Image {

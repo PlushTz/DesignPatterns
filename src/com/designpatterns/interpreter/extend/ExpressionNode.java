@@ -1,4 +1,4 @@
-package designpatterns.interpreter.extend;
+package com.designpatterns.interpreter.extend;
 import java.util.*;
 
 //表达式节点类：非终结符表达式

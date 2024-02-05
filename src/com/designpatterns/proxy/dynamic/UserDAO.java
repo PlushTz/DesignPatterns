@@ -1,5 +1,5 @@
 //designpatterns.proxy.dynamic.UserDAO.java
-package designpatterns.proxy.dynamic;
+package com.designpatterns.proxy.dynamic;
 
 //具体UserDAO类：真实角色
 public class UserDAO implements AbstractUserDAO {

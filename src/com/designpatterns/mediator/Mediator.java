@@ -1,5 +1,5 @@
 //designpatterns.mediator.Mediator.java
-package designpatterns.mediator;
+package com.designpatterns.mediator;
 
 //³éÏóÖĞ½éÕß
 public abstract class Mediator {

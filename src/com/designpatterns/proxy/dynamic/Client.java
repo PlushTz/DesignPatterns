@@ -1,5 +1,5 @@
 //designpatterns.proxy.dynamic.Client.java
-package designpatterns.proxy.dynamic;
+package com.designpatterns.proxy.dynamic;
 
 import java.lang.reflect.Proxy;
 import java.lang.reflect.InvocationHandler;

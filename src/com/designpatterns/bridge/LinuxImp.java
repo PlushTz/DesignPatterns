@@ -1,5 +1,5 @@
 //designpatterns.bridge.LinuxImp.java
-package designpatterns.bridge;
+package com.designpatterns.bridge;
 
 //Linux操作系统实现类，充当具体实现类
 public class LinuxImp implements ImageImp {

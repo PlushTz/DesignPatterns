@@ -1,5 +1,5 @@
 //designpatterns.mediator.ComboBox.java
-package designpatterns.mediator;
+package com.designpatterns.mediator;
 
 //组合框类：具体同事类
 public class ComboBox extends Component {

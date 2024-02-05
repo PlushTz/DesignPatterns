@@ -1,5 +1,5 @@
 //designpatterns.memento.Chessman.java
-package designpatterns.memento;
+package com.designpatterns.memento;
 
 //象棋棋子类：原发器
 public class Chessman {

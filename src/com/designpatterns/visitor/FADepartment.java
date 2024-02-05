@@ -1,5 +1,5 @@
 //designpatterns.visitor.FADepartment.java
-package designpatterns.visitor;
+package com.designpatterns.visitor;
 
 //财务部类：具体访问者类
 public class FADepartment extends Department {

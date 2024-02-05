@@ -1,26 +1,26 @@
 //designpatterns.flyweight.simple.Client.java
-package designpatterns.flyweight.simple;
+package com.designpatterns.flyweight.simple;
 
 public class Client {
 	public static void main(String args[]) {
 		IgoChessman black1,black2,black3,white1,white2;
 		IgoChessmanFactory factory;
         
-        //»ñÈ¡ÏíÔª¹¤³§¶ÔÏó
+        //ï¿½ï¿½È¡ï¿½ï¿½Ôªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 		factory = IgoChessmanFactory.getInstance();
 
-        //Í¨¹ýÏíÔª¹¤³§»ñÈ¡Èý¿ÅºÚ×Ó
+        //Í¨ï¿½ï¿½ï¿½ï¿½Ôªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È¡ï¿½ï¿½ï¿½Åºï¿½ï¿½ï¿½
 		black1 = factory.getIgoChessman("b");
 		black2 = factory.getIgoChessman("b");
 		black3 = factory.getIgoChessman("b");
-		System.out.println("ÅÐ¶ÏÁ½¿ÅºÚ×ÓÊÇ·ñÏàÍ¬£º" + (black1==black2));
+		System.out.println("ï¿½Ð¶ï¿½ï¿½ï¿½ï¿½Åºï¿½ï¿½ï¿½ï¿½Ç·ï¿½ï¿½ï¿½Í¬ï¿½ï¿½" + (black1==black2));
 
-        //Í¨¹ýÏíÔª¹¤³§»ñÈ¡Á½¿Å°××Ó
+        //Í¨ï¿½ï¿½ï¿½ï¿½Ôªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È¡ï¿½ï¿½ï¿½Å°ï¿½ï¿½ï¿½
 		white1 = factory.getIgoChessman("w");
 		white2 = factory.getIgoChessman("w");
-		System.out.println("ÅÐ¶ÏÁ½¿Å°××ÓÊÇ·ñÏàÍ¬£º" + (white1==white2));
+		System.out.println("ï¿½Ð¶ï¿½ï¿½ï¿½ï¿½Å°ï¿½ï¿½ï¿½ï¿½Ç·ï¿½ï¿½ï¿½Í¬ï¿½ï¿½" + (white1==white2));
 
-        //ÏÔÊ¾Æå×Ó
+        //ï¿½ï¿½Ê¾ï¿½ï¿½ï¿½ï¿½
 		black1.display();
 		black2.display();
 		black3.display();

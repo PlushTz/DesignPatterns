@@ -1,5 +1,5 @@
 //designpatterns.mediator.ConcreteMediator.java
-package designpatterns.mediator;
+package com.designpatterns.mediator;
 
 //具体中介者
 public class ConcreteMediator extends Mediator {

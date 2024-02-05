@@ -1,5 +1,5 @@
 //designpatterns.proxy.ProxySearcher.java
-package designpatterns.proxy;
+package com.designpatterns.proxy;
 
 //代理查询类：代理主题类
 public class ProxySearcher implements Searcher {

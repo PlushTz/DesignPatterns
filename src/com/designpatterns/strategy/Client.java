@@ -1,5 +1,5 @@
 //designpatterns.strategy.Client.java
-package designpatterns.strategy;
+package com.designpatterns.strategy;
 
 public class Client {
 	public static void main(String args[]) {

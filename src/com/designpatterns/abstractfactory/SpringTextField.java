@@ -1,8 +1,8 @@
 //designpatterns.abstractfactory.SpringTextField.java
-package designpatterns.abstractfactory;
+package com.designpatterns.abstractfactory;
 
 public class SpringTextField implements TextField {
 	public void display() {
-		System.out.println("отй╬бли╚╠ъ©Рнд╠╬©Р║ё");
+		System.out.println("О©╫О©╫й╬О©╫О©╫и╚О©╫ъ©О©╫О©╫д╠О©╫О©╫О©╫");
 	}
 }

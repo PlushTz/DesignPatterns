@@ -1,5 +1,5 @@
 //designpatterns.iterator.Client.java
-package designpatterns.iterator;
+package com.designpatterns.iterator;
 import java.util.*;
 
 public class Client {

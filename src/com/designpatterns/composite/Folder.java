@@ -1,5 +1,5 @@
 //designpatterns.composite.Folder.java
-package designpatterns.composite;
+package com.designpatterns.composite;
 import java.util.*;
 
 public class Folder extends AbstractFile {

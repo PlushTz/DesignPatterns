@@ -1,5 +1,5 @@
 //designpatterns.proxy.XMLUtil.java
-package designpatterns.proxy;
+package com.designpatterns.proxy;
 
 import javax.xml.parsers.*;
 import org.w3c.dom.*;

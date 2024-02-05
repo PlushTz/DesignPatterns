@@ -1,5 +1,5 @@
 //designpatterns.builder.HeroBuilder.java
-package designpatterns.builder;
+package com.designpatterns.builder;
 
 public class HeroBuilder extends ActorBuilder {
 	public void buildType() {

@@ -1,5 +1,5 @@
 //designpatterns.templatemethod.Account.java
-package designpatterns.templatemethod;
+package com.designpatterns.templatemethod;
 
 //账户类：抽象类
 public abstract class Account {

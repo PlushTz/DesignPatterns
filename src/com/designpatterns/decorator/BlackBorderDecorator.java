@@ -1,5 +1,5 @@
 //designpatterns.decorator.BlackBorderDecorator.java
-package designpatterns.decorator;
+package com.designpatterns.decorator;
 
 public class BlackBorderDecorator extends ComponentDecorator {
 	public BlackBorderDecorator(Component component) {

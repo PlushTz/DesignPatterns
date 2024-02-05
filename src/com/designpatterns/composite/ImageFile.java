@@ -1,5 +1,5 @@
 //designpatterns.composite.ImageFile.java
-package designpatterns.composite;
+package com.designpatterns.composite;
 
 public class ImageFile extends AbstractFile {
 	private String name;

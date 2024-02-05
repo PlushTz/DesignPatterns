@@ -1,5 +1,5 @@
 //designpatterns.memento.MementoCaretaker.java
-package designpatterns.memento;
+package com.designpatterns.memento;
 
 import java.util.*;
 /*

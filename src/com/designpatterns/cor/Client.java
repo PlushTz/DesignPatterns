@@ -1,5 +1,5 @@
 //designpatterns.cor.Client.java
-package designpatterns.cor;
+package com.designpatterns.cor;
 
 public class Client {
 	public static void main(String[] args) {

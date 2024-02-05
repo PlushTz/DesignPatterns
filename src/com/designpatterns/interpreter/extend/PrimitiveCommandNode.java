@@ -1,4 +1,4 @@
-package designpatterns.interpreter.extend;
+package com.designpatterns.interpreter.extend;
 
 //基本命令节点类：终结符表达式
 public class PrimitiveCommandNode extends Node {

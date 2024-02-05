@@ -1,5 +1,5 @@
 //designpatterns.builder.AngelBuilder.java
-package designpatterns.builder;
+package com.designpatterns.builder;
 
 public class AngelBuilder extends ActorBuilder {
 	public void buildType() {

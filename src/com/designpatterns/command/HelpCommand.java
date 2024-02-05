@@ -1,4 +1,4 @@
-package designpatterns.command;
+package com.designpatterns.command;
 
 //帮助命令类：具体命令类
 public class HelpCommand extends Command {

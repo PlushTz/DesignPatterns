@@ -1,5 +1,5 @@
 //designpatterns.facade.XMLUtil.java
-package designpatterns.facade;
+package com.designpatterns.facade;
 
 import javax.xml.parsers.*;
 import org.w3c.dom.*;

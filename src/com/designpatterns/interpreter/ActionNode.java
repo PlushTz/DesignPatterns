@@ -1,5 +1,5 @@
 //designpatterns.interpreter.ActionNode.java
-package designpatterns.interpreter;
+package com.designpatterns.interpreter;
 
 //动作解释：终结符表达式
 public class ActionNode extends AbstractNode {

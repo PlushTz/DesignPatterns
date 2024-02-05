@@ -1,5 +1,5 @@
 //designpatterns.builder.Client.java
-package designpatterns.builder;
+package com.designpatterns.builder;
 
 public class Client {
 	public static void main(String args[]) {

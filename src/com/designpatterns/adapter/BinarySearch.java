@@ -1,4 +1,4 @@
-package designpatterns.adapter;
+package com.designpatterns.adapter;
 
 //二分查找类：适配者
 public class BinarySearch {

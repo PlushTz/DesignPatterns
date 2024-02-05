@@ -1,7 +1,7 @@
 //designpatterns.flyweight.extend.Coordinates.java
-package designpatterns.flyweight.extend;
+package com.designpatterns.flyweight.extend;
 
-//×ø±êÀà£ºÍâ²¿×´Ì¬Àà
+//ï¿½ï¿½ï¿½ï¿½ï¿½à£ºï¿½â²¿×´Ì¬ï¿½ï¿½
 public class Coordinates {
 	private int x;
 	private int y;

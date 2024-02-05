@@ -1,5 +1,5 @@
 //designpatterns.facade.CipherMachine.java
-package designpatterns.facade;
+package com.designpatterns.facade;
 
 //数据加密类：子系统类
 public class CipherMachine {

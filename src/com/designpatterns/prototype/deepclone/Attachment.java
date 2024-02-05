@@ -1,5 +1,5 @@
 //designpatterns.prototype.deepclone.Attachment.java
-package designpatterns.prototype.deepclone;
+package com.designpatterns.prototype.deepclone;
 import java.io.*;
 
 public class Attachment implements Serializable {

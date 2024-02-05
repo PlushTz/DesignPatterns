@@ -1,5 +1,5 @@
 //designpatterns.iterator.AbstractIterator.java
-package designpatterns.iterator;
+package com.designpatterns.iterator;
 
 //³éÏóµü´úÆ÷
 public interface AbstractIterator {

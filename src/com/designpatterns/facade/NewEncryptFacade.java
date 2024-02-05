@@ -1,5 +1,5 @@
 //designpatterns.facade.NewEncryptFacade.java
-package designpatterns.facade;
+package com.designpatterns.facade;
 
 public class NewEncryptFacade extends AbstractEncryptFacade {
 	private FileReader reader;

@@ -1,5 +1,5 @@
 //designpatterns.proxy.AccessValidator.java
-package designpatterns.proxy;
+package com.designpatterns.proxy;
 
 //身份验证类：业务类
 public class AccessValidator {

@@ -1,5 +1,5 @@
 //designpatterns.state.screen.Client.java
-package designpatterns.state.screen;
+package com.designpatterns.state.screen;
 
 public class Client {
 	public static void main(String args[]) {

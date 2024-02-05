@@ -1,5 +1,5 @@
 //designpatterns.proxy.Searcher.java
-package designpatterns.proxy;
+package com.designpatterns.proxy;
 
 //抽象查询类：抽象主题类
 public interface Searcher {

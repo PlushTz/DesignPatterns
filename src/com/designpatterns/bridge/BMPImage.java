@@ -1,5 +1,5 @@
 //designpatterns.bridge.BMPImage.java
-package designpatterns.bridge;
+package com.designpatterns.bridge;
 
 //BMP格式图像类，充当扩充抽象类
 public class BMPImage extends Image {

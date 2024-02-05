@@ -1,5 +1,5 @@
 //designpatterns.simplefactory.ChartFactory.java
-package designpatterns.simplefactory;
+package com.designpatterns.simplefactory;
 
 //图表工厂类，充当工厂类
 public class ChartFactory {

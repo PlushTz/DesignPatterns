@@ -1,5 +1,5 @@
 //designpatterns.prototype.shallowclone.WeeklyLog.java
-package designpatterns.prototype.shallowclone;
+package com.designpatterns.prototype.shallowclone;
 
 public class WeeklyLog implements Cloneable {
 	private String name;

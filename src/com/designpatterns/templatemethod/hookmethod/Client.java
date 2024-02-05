@@ -1,5 +1,5 @@
 //designpatterns.templatemethod.hookmethod.Client.java
-package designpatterns.templatemethod.hookmethod;
+package com.designpatterns.templatemethod.hookmethod;
 
 public class Client {
 	public static void main(String args[]) {

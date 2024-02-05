@@ -1,18 +1,18 @@
-package designpatterns.interpreter.extend;
+package com.designpatterns.interpreter.extend;
 
 import java.util.*;
 
-//»·¾³Àà£ºÓÃÓÚ´æ´¢ºÍ²Ù×÷ÐèÒª½âÊÍµÄÓï¾ä£¬ÔÚ±¾ÊµÀýÖÐÃ¿Ò»¸öÐèÒª½âÊÍµÄµ¥´Ê¿ÉÒÔ³ÆÎªÒ»¸ö¶¯×÷±ê¼Ç(Action Token)»òÃüÁî
+//ï¿½ï¿½ï¿½ï¿½ï¿½à£ºï¿½ï¿½ï¿½Ú´æ´¢ï¿½Í²ï¿½ï¿½ï¿½ï¿½ï¿½Òªï¿½ï¿½ï¿½Íµï¿½ï¿½ï¿½ä£¬ï¿½Ú±ï¿½Êµï¿½ï¿½ï¿½ï¿½Ã¿Ò»ï¿½ï¿½ï¿½ï¿½Òªï¿½ï¿½ï¿½ÍµÄµï¿½ï¿½Ê¿ï¿½ï¿½Ô³ï¿½ÎªÒ»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½(Action Token)ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 public class Context {
-	private StringTokenizer tokenizer; //StringTokenizerÀà£¬ÓÃÓÚ½«×Ö·û´®·Ö½âÎª¸üÐ¡µÄ×Ö·û´®±ê¼Ç(Token)£¬Ä¬ÈÏÇé¿öÏÂÒÔ¿Õ¸ñ×÷Îª·Ö¸ô·û
-	private String currentToken; //µ±Ç°×Ö·û´®±ê¼Ç
+	private StringTokenizer tokenizer; //StringTokenizerï¿½à£¬ï¿½ï¿½ï¿½Ú½ï¿½ï¿½Ö·ï¿½ï¿½ï¿½ï¿½Ö½ï¿½Îªï¿½ï¿½Ð¡ï¿½ï¿½ï¿½Ö·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½(Token)ï¿½ï¿½Ä¬ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô¿Õ¸ï¿½ï¿½ï¿½Îªï¿½Ö¸ï¿½ï¿½ï¿½
+	private String currentToken; //ï¿½ï¿½Ç°ï¿½Ö·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 	
 	public Context(String text) {
-		tokenizer = new StringTokenizer(text); //Í¨¹ý´«ÈëµÄÖ¸Áî×Ö·û´®´´½¨StringTokenizer¶ÔÏó
+		tokenizer = new StringTokenizer(text); //Í¨ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö¸ï¿½ï¿½ï¿½Ö·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½StringTokenizerï¿½ï¿½ï¿½ï¿½
 		nextToken();
 	}
 	
-	//·µ»ØÏÂÒ»¸ö±ê¼Ç
+	//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½
 	public String nextToken() {
 		if (tokenizer.hasMoreTokens()) {
 			currentToken = tokenizer.nextToken();
@@ -23,27 +23,27 @@ public class Context {
 		return currentToken;
 	}
 	
-	//·µ»Øµ±Ç°µÄ±ê¼Ç
+	//ï¿½ï¿½ï¿½Øµï¿½Ç°ï¿½Ä±ï¿½ï¿½
 	public String currentToken() {
 		return currentToken;
 	}
 	
-	//Ìø¹ýÒ»¸ö±ê¼Ç
+	//ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½
 	public void skipToken(String token) {
 		if (!token.equals(currentToken)) {
-			System.err.println("´íÎóÌáÊ¾£º" + currentToken + "½âÊÍ´íÎó£¡");
+			System.err.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê¾ï¿½ï¿½" + currentToken + "ï¿½ï¿½ï¿½Í´ï¿½ï¿½ï¿½");
 			}
 		nextToken();
 	}
 	
-	//Èç¹ûµ±Ç°µÄ±ê¼ÇÊÇÒ»¸öÊý×Ö£¬Ôò·µ»Ø¶ÔÓ¦µÄÊýÖµ
+	//ï¿½ï¿½ï¿½ï¿½ï¿½Ç°ï¿½Ä±ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½Ö£ï¿½ï¿½ò·µ»Ø¶ï¿½Ó¦ï¿½ï¿½ï¿½ï¿½Öµ
 	public int currentNumber() {
 		int number = 0;
 		try{
-			number = Integer.parseInt(currentToken); //½«×Ö·û´®×ª»»ÎªÕûÊý
+			number = Integer.parseInt(currentToken); //ï¿½ï¿½ï¿½Ö·ï¿½ï¿½ï¿½×ªï¿½ï¿½Îªï¿½ï¿½ï¿½ï¿½
 		}
 		catch(NumberFormatException e) {
-			System.err.println("´íÎóÌáÊ¾£º" + e);
+			System.err.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê¾ï¿½ï¿½" + e);
 		}
 		return number;
 	}

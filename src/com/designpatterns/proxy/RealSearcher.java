@@ -1,5 +1,5 @@
 //designpatterns.proxy.RealSearcher.java
-package designpatterns.proxy;
+package com.designpatterns.proxy;
 
 //具体查询类：真实主题类
 public class RealSearcher implements Searcher {

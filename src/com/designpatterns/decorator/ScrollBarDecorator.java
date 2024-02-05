@@ -1,5 +1,5 @@
 //designpatterns.decorator.ScrollBarDecorator.java
-package designpatterns.decorator;
+package com.designpatterns.decorator;
 
 public class ScrollBarDecorator extends ComponentDecorator {
 	public ScrollBarDecorator(Component component) {

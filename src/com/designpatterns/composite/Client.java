@@ -1,5 +1,5 @@
 //designpatterns.composite.Client.java
-package designpatterns.composite;
+package com.designpatterns.composite;
 
 public class Client {
 	public static void main(String args[]) {

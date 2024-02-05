@@ -1,5 +1,5 @@
 //designpatterns.interpreter.SentenceNode.java
-package designpatterns.interpreter;
+package com.designpatterns.interpreter;
 
 //简单句子解释：非终结符表达式
 public class SentenceNode extends AbstractNode {

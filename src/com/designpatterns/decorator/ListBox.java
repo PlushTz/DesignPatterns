@@ -1,5 +1,5 @@
 //designpatterns.decorator.ListBox.java
-package designpatterns.decorator;
+package com.designpatterns.decorator;
 
 public class ListBox extends Component {
 	public void display() {

@@ -1,5 +1,5 @@
 //designpatterns.interpreter.AbstractNode.java
-package designpatterns.interpreter;
+package com.designpatterns.interpreter;
 
 //抽象表达式
 public abstract class AbstractNode {

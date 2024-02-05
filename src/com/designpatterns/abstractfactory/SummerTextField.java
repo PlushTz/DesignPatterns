@@ -1,5 +1,5 @@
 //designpatterns.abstractfactory.SummerTextField.java
-package designpatterns.abstractfactory;
+package com.designpatterns.abstractfactory;
 
 public class SummerTextField implements TextField {
 	public void display() {

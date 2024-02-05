@@ -1,5 +1,5 @@
 //designpatterns.builder.ActorBuilder.java
-package designpatterns.builder;
+package com.designpatterns.builder;
 
 public abstract class ActorBuilder {
 	protected Actor actor = new Actor();

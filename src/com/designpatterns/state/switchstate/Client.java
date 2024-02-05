@@ -1,5 +1,5 @@
 //designpatterns.state.switchstate.Client.java
-package designpatterns.state.switchstate;
+package com.designpatterns.state.switchstate;
 
 public class Client {
 	public static void main(String args[]) {

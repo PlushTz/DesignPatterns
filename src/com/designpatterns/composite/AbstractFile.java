@@ -1,5 +1,5 @@
 //designpatterns.composite.AbstractFile.java
-package designpatterns.composite;
+package com.designpatterns.composite;
 
 public abstract class AbstractFile {
 	public abstract void add(AbstractFile file);

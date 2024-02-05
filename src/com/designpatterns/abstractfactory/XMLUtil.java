@@ -1,5 +1,5 @@
 //designpatterns.abstractfactory.XMLUtil.java
-package designpatterns.abstractfactory;
+package com.designpatterns.abstractfactory;
 
 import javax.xml.parsers.*;
 import org.w3c.dom.*;

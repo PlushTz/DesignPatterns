@@ -1,5 +1,5 @@
 //designpatterns.interpreter.DistanceNode.java
-package designpatterns.interpreter;
+package com.designpatterns.interpreter;
 
 //距离解释：终结符表达式
 public class DistanceNode extends AbstractNode {

@@ -1,8 +1,8 @@
-package designpatterns.interpreter.extend;
+package com.designpatterns.interpreter.extend;
 
 public class Client {
 	public static void main(String[] args){
-		String text = "LOOP 2 PRINT Ñî¹ý SPACE SPACE PRINT Ð¡ÁúÅ® BREAK END PRINT ¹ù¾¸ SPACE SPACE PRINT »ÆÈØ";
+		String text = "LOOP 2 PRINT ï¿½ï¿½ï¿½ SPACE SPACE PRINT Ð¡ï¿½ï¿½Å® BREAK END PRINT ï¿½ï¿½ï¿½ï¿½ SPACE SPACE PRINT ï¿½ï¿½ï¿½ï¿½";
 		Context context = new Context(text);
 			
 		Node node = new ExpressionNode();

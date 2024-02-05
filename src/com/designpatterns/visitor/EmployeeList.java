@@ -1,5 +1,5 @@
 //designpatterns.visitor.EmployeeList.java
-package designpatterns.visitor;
+package com.designpatterns.visitor;
 import java.util.*;
 
 //员工列表类：对象结构

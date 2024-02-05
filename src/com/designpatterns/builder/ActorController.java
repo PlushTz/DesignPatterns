@@ -1,5 +1,5 @@
 //designpatterns.builder.ActorController.java
-package designpatterns.builder;
+package com.designpatterns.builder;
 
 public class ActorController {
     //逐步构建复杂产品对象

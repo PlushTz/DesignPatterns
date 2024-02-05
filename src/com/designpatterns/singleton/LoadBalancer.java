@@ -1,5 +1,5 @@
 //designpatterns.singleton.LoadBalancer.java
-package designpatterns.singleton;
+package com.designpatterns.singleton;
 import java.util.*;
 
 //负载均衡器类，充当单例角色

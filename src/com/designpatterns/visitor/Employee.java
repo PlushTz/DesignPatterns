@@ -1,5 +1,5 @@
 //designpatterns.visitor.Employee.java
-package designpatterns.visitor;
+package com.designpatterns.visitor;
 
 //员工类：抽象元素类
 public interface Employee {

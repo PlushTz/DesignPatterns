@@ -1,5 +1,5 @@
 //designpatterns.abstractfactory.ComboBox.java
-package designpatterns.abstractfactory;
+package com.designpatterns.abstractfactory;
 
 public interface ComboBox {
 	public void display();

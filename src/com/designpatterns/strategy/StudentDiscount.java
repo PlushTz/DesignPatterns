@@ -1,5 +1,5 @@
 //designpatterns.strategy.StudentDiscount.java
-package designpatterns.strategy;
+package com.designpatterns.strategy;
 
 //学生票折扣类：具体策略类
 public class StudentDiscount implements Discount {

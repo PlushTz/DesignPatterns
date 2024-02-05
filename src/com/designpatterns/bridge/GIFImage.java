@@ -1,5 +1,5 @@
 //designpatterns.bridge.GIFImage.java
-package designpatterns.bridge;
+package com.designpatterns.bridge;
 
 //GIF格式图像类，充当扩充抽象类
 public class GIFImage extends Image {

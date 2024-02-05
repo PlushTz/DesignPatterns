@@ -1,5 +1,5 @@
 //designpatterns.state.switchstate.OffState.java
-package designpatterns.state.switchstate;
+package com.designpatterns.state.switchstate;
 
 //¹Ø±Õ×´Ì¬Àà
 public class OffState extends SwitchState{

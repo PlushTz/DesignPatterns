@@ -1,5 +1,5 @@
 //designpatterns.builder.DevilBuilder.java
-package designpatterns.builder;
+package com.designpatterns.builder;
 
 public class DevilBuilder extends ActorBuilder {
 	public void buildType() {

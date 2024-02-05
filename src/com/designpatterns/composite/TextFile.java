@@ -1,5 +1,5 @@
 //designpatterns.composite.TextFile.java
-package designpatterns.composite;
+package com.designpatterns.composite;
 
 public class TextFile extends AbstractFile {
 	private String name;

@@ -1,5 +1,5 @@
 //designpatterns.cor.Approver.java
-package designpatterns.cor;
+package com.designpatterns.cor;
 
 //审批者类：抽象处理者
 public abstract class Approver {

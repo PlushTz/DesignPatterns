@@ -1,5 +1,5 @@
 //designpatterns.visitor.XMLUtil.java
-package designpatterns.visitor;
+package com.designpatterns.visitor;
 
 import javax.xml.parsers.*;
 import org.w3c.dom.*;

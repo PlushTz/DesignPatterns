@@ -1,4 +1,4 @@
-package designpatterns.command;
+package com.designpatterns.command;
 
 //最小化命令类：具体命令类
 class MinimizeCommand extends Command {

@@ -1,4 +1,4 @@
-package designpatterns.interpreter.extend;
+package com.designpatterns.interpreter.extend;
 
 //循环命令节点类：非终结符表达式
 public class LoopCommandNode extends Node {

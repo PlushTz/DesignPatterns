@@ -1,5 +1,5 @@
 //designpatterns.templatemethod.hookmethod.DataViewer.java
-package designpatterns.templatemethod.hookmethod;
+package com.designpatterns.templatemethod.hookmethod;
 
 public abstract class DataViewer {
 	//抽象方法：获取数据

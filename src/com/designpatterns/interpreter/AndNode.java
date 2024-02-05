@@ -1,5 +1,5 @@
 //designpatterns.interpreter.AndNode.java
-package designpatterns.interpreter;
+package com.designpatterns.interpreter;
 
 //And解释：非终结符表达式
 public class AndNode extends AbstractNode {

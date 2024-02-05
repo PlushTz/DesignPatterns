@@ -1,5 +1,5 @@
 //designpatterns.observer.Client.java
-package designpatterns.observer;
+package com.designpatterns.observer;
 
 public class Client {
 	public static void main(String args[]) {

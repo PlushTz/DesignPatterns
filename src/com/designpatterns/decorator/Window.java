@@ -1,5 +1,5 @@
 //designpatterns.decorator.Window.java
-package designpatterns.decorator;
+package com.designpatterns.decorator;
 
 public class Window extends Component {
 	public void display() {

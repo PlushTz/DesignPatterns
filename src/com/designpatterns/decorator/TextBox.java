@@ -1,5 +1,5 @@
 //designpatterns.decorator.TextBox.java
-package designpatterns.decorator;
+package com.designpatterns.decorator;
 
 public class TextBox extends Component {
 	public void display() {

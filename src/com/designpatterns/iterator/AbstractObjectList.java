@@ -1,5 +1,5 @@
 //designpatterns.iterator.AbstractObjectList.java
-package designpatterns.iterator;
+package com.designpatterns.iterator;
 import java.util.*;
 
 //³éÏó¾ÛºÏÀà

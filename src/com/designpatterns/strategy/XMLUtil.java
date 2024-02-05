@@ -1,5 +1,5 @@
 //designpatterns.strategy.XMLUtil.java
-package designpatterns.strategy;
+package com.designpatterns.strategy;
 
 import javax.xml.parsers.*;
 import org.w3c.dom.*;

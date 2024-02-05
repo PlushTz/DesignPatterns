@@ -1,16 +1,16 @@
-package designpatterns.interpreter.extend;
+package com.designpatterns.interpreter.extend;
 
-//Óï¾äÃüÁî½ÚµãÀà£º·ÇÖÕ½á·û±í´ïÊ½
+//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Úµï¿½ï¿½à£ºï¿½ï¿½ï¿½Õ½ï¿½ï¿½ï¿½ï¿½ï¿½Ê½
 public class CommandNode extends Node {
 	private Node node;
 	
 	public void interpret(Context context) {
-      //´¦ÀíLOOPÑ­»·ÃüÁî
+      //ï¿½ï¿½ï¿½ï¿½LOOPÑ­ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 		if (context.currentToken().equals("LOOP")) {
 			node = new LoopCommandNode();
 			node.interpret(context);
 		}
-      //´¦ÀíÆäËû»ù±¾ÃüÁî
+      //ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 		else {
 			node = new PrimitiveCommandNode();
 			node.interpret(context);

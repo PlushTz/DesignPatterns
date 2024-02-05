@@ -1,9 +1,9 @@
 //designpatterns.flyweight.simple.BlackIgoChessman.java
-package designpatterns.flyweight.simple;
+package com.designpatterns.flyweight.simple;
 
-//ºÚÉ«Æå×ÓÀà£º¾ßÌåÏíÔªÀà
+//ï¿½ï¿½É«ï¿½ï¿½ï¿½ï¿½ï¿½à£ºï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ôªï¿½ï¿½
 public class BlackIgoChessman extends IgoChessman {
 	public String getColor() {
-		return "ºÚÉ«";
+		return "ï¿½ï¿½É«";
 	}	
 }

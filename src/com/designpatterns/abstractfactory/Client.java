@@ -1,5 +1,5 @@
 //designpatterns.abstractfactory.Client.java
-package designpatterns.abstractfactory;
+package com.designpatterns.abstractfactory;
 
 public class Client {
 	public static void main(String args[]) {

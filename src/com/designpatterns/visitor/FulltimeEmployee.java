@@ -1,5 +1,5 @@
 //designpatterns.visitor.FulltimeEmployee.java
-package designpatterns.visitor;
+package com.designpatterns.visitor;
 
 //全职员工类：具体元素类
 public class FulltimeEmployee implements Employee {

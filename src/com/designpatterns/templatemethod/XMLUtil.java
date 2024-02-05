@@ -1,5 +1,5 @@
 //designpatterns.templatemethod.XMLUtil.java
-package designpatterns.templatemethod;
+package com.designpatterns.templatemethod;
 
 import javax.xml.parsers.*;
 import org.w3c.dom.*;

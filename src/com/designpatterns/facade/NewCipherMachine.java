@@ -1,5 +1,5 @@
 //designpatterns.facade.NewCipherMachine.java
-package designpatterns.facade;
+package com.designpatterns.facade;
 
 public class NewCipherMachine {
 	public String encrypt(String plainText) {

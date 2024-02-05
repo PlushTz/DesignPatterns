@@ -1,4 +1,4 @@
-package designpatterns.simplefactory;
+package com.designpatterns.simplefactory;
 import javax.xml.parsers.*;
 import org.w3c.dom.*;
 import java.io.*;

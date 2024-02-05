@@ -1,5 +1,5 @@
 //designpatterns.iterator.ProductList.java
-package designpatterns.iterator;
+package com.designpatterns.iterator;
 import java.util.*;
 
 //商品数据类：具体聚合类

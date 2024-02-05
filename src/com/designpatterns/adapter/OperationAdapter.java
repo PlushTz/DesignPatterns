@@ -1,4 +1,4 @@
-package designpatterns.adapter;
+package com.designpatterns.adapter;
 
 //²Ù×÷ÊÊÅäÆ÷£ºÊÊÅäÆ÷
 public class OperationAdapter implements ScoreOperation {

@@ -1,5 +1,5 @@
 //designpatterns.templatemethod.SavingAccount.java
-package designpatterns.templatemethod;
+package com.designpatterns.templatemethod;
 
 //定期账户类：具体子类
 public class SavingAccount extends Account {

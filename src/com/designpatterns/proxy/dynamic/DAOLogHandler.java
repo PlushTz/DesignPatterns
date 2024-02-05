@@ -1,5 +1,5 @@
 //designpatterns.proxy.dynamic.DAOLogHandler.java
-package designpatterns.proxy.dynamic;
+package com.designpatterns.proxy.dynamic;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

@@ -1,8 +1,8 @@
 //designpatterns.abstractfactory.SummerButton.java
-package designpatterns.abstractfactory;
+package com.designpatterns.abstractfactory;
 
 public class SummerButton implements Button {
 	public void display() {
-		System.out.println("ÏÔÊ¾Ç³À¶É«°´Å¥¡£");
+		System.out.println("ï¿½ï¿½Ê¾Ç³ï¿½ï¿½É«ï¿½ï¿½Å¥ï¿½ï¿½");
 	}	
 }

@@ -1,5 +1,5 @@
 //designpatterns.templatemethod.CurrentAccount.java
-package designpatterns.templatemethod;
+package com.designpatterns.templatemethod;
 
 //活期账户类：具体子类
 public class CurrentAccount extends Account {

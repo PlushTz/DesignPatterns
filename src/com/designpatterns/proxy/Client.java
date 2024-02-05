@@ -1,5 +1,5 @@
 //designpatterns.proxy.Client.java
-package designpatterns.proxy;
+package com.designpatterns.proxy;
 
 public class Client {
 	public static void main(String args[]) {

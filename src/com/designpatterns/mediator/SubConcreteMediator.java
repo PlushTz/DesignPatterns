@@ -1,6 +1,6 @@
 //新增具体中介者类
 //designpatterns.mediator.SubConcreteMediator.java
-package designpatterns.mediator;
+package com.designpatterns.mediator;
 
 public class SubConcreteMediator extends ConcreteMediator {
 	//增加对Label对象的引用

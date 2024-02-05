@@ -1,5 +1,5 @@
 //designpatterns.bridge.XMLUtil.java
-package designpatterns.bridge;
+package com.designpatterns.bridge;
 import javax.xml.parsers.*;
 import org.w3c.dom.*;
 import java.io.*;

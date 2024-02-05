@@ -1,5 +1,5 @@
 //designpatterns.singleton.Client.java
-package designpatterns.singleton;
+package com.designpatterns.singleton;
 
 //¿Í»§¶Ë²âÊÔÀà
 public class Client {

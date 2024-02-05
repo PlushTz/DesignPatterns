@@ -1,5 +1,5 @@
 //designpatterns.observer.ConcreteAllyControlCenter.java
-package designpatterns.observer;
+package com.designpatterns.observer;
 
 //具体战队控制中心类：具体目标类
 public class ConcreteAllyControlCenter extends AllyControlCenter {

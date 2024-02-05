@@ -1,11 +1,11 @@
 //designpatterns.flyweight.extend.IgoChessmanFactory.java
-package designpatterns.flyweight.extend;
+package com.designpatterns.flyweight.extend;
 import java.util.*;
 
-//Î§ÆåÆå×Ó¹¤³§Àà£ºÏíÔª¹¤³§Àà£¬Ê¹ÓÃµ¥ÀıÄ£Ê½½øĞĞÉè¼Æ
+//Î§ï¿½ï¿½ï¿½ï¿½ï¿½Ó¹ï¿½ï¿½ï¿½ï¿½à£ºï¿½ï¿½Ôªï¿½ï¿½ï¿½ï¿½ï¿½à£¬Ê¹ï¿½Ãµï¿½ï¿½ï¿½Ä£Ê½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 public class IgoChessmanFactory {
 	private static IgoChessmanFactory instance = new IgoChessmanFactory();
-	private static Hashtable ht; //Ê¹ÓÃHashtableÀ´´æ´¢ÏíÔª¶ÔÏó£¬³äµ±ÏíÔª³Ø
+	private static Hashtable ht; //Ê¹ï¿½ï¿½Hashtableï¿½ï¿½ï¿½æ´¢ï¿½ï¿½Ôªï¿½ï¿½ï¿½ó£¬³äµ±ï¿½ï¿½Ôªï¿½ï¿½
 	
 	private IgoChessmanFactory() {
 		ht = new Hashtable();
@@ -16,12 +16,12 @@ public class IgoChessmanFactory {
 		ht.put("w",white);
 	}
 	
-  //·µ»ØÏíÔª¹¤³§ÀàµÄÎ¨Ò»ÊµÀı
+  //ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ôªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Î¨Ò»Êµï¿½ï¿½
 	public static IgoChessmanFactory getInstance() {
 		return instance;
 	}
 	
-  //Í¨¹ıkeyÀ´»ñÈ¡´æ´¢ÔÚHashtableÖĞµÄÏíÔª¶ÔÏó
+  //Í¨ï¿½ï¿½keyï¿½ï¿½ï¿½ï¿½È¡ï¿½æ´¢ï¿½ï¿½Hashtableï¿½Ğµï¿½ï¿½ï¿½Ôªï¿½ï¿½ï¿½ï¿½
 	public static IgoChessman getIgoChessman(String color) {
 		return (IgoChessman)ht.get(color);	
 	}

@@ -1,5 +1,5 @@
 //designpatterns.bridge.UnixImp.java
-package designpatterns.bridge;
+package com.designpatterns.bridge;
 
 //Unix操作系统实现类，充当具体实现类
 public class UnixImp implements ImageImp {

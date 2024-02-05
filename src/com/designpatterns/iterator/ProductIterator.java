@@ -1,5 +1,5 @@
 //designpatterns.iterator.ProductIterator.java
-package designpatterns.iterator;
+package com.designpatterns.iterator;
 import java.util.*;
 
 //商品迭代器：具体迭代器

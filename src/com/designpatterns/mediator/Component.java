@@ -1,5 +1,5 @@
 //designpatterns.mediator.Component.java
-package designpatterns.mediator;
+package com.designpatterns.mediator;
 
 //抽象组件类：抽象同事类
 public abstract class Component {

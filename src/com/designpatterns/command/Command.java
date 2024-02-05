@@ -1,4 +1,4 @@
-package designpatterns.command;
+package com.designpatterns.command;
 
 //³éÏóÃüÁîÀà
 public abstract class Command {

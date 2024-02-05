@@ -1,4 +1,4 @@
-package designpatterns.command;
+package com.designpatterns.command;
 import java.util.*;
 
 //功能键设置窗口类

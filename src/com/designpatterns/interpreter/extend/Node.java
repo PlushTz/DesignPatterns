@@ -1,7 +1,7 @@
-package designpatterns.interpreter.extend;
+package com.designpatterns.interpreter.extend;
 
-//³éÏó½ÚµãÀà£º³éÏó±í´ïÊ½
+//ï¿½ï¿½ï¿½ï¿½Úµï¿½ï¿½à£ºï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê½
 public abstract class Node {
-	public abstract void interpret(Context text); //ÉùÃ÷Ò»¸ö·½·¨ÓÃÓÚ½âÊÍÓï¾ä
-	public abstract void execute(); //ÉùÃ÷Ò»¸ö·½·¨ÓÃÓÚÖ´ĞĞ±ê¼Ç¶ÔÓ¦µÄÃüÁî
+	public abstract void interpret(Context text); //ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ú½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+	public abstract void execute(); //ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö´ï¿½Ğ±ï¿½Ç¶ï¿½Ó¦ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 }

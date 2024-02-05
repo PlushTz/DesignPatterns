@@ -1,5 +1,5 @@
 //designpatterns.state.screen.NormalState.java
-package designpatterns.state.screen;
+package com.designpatterns.state.screen;
 
 //正常状态类：具体状态类
 public class NormalState extends ScreenState{

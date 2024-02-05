@@ -1,5 +1,5 @@
 //designpatterns.command.calculator.Adder.java
-package designpatterns.command.calculator;
+package com.designpatterns.command.calculator;
 
 //加法类：请求接收者
 public class Adder {

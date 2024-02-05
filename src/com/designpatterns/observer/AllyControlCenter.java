@@ -1,5 +1,5 @@
 //designpatterns.observer.AllyControlCenter.java
-package designpatterns.observer;
+package com.designpatterns.observer;
 import java.util.*;
 
 //战队控制中心类：目标类

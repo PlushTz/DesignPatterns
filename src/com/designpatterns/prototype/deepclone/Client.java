@@ -1,5 +1,5 @@
 //designpatterns.prototype.deepclone.Client.java
-package designpatterns.prototype.deepclone;
+package com.designpatterns.prototype.deepclone;
 
 public class Client {
 	public static void main(String args[]) {

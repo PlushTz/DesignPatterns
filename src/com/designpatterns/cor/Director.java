@@ -1,5 +1,5 @@
 //designpatterns.cor.Director.java
-package designpatterns.cor;
+package com.designpatterns.cor;
 
 //主任类：具体处理者
 public class Director extends Approver {

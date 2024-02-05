@@ -1,5 +1,5 @@
 //designpatterns.memento.Client.java
-package designpatterns.memento;
+package com.designpatterns.memento;
 
 /*
 public class Client {

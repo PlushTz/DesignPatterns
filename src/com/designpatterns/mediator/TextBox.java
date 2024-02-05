@@ -1,5 +1,5 @@
 //designpatterns.mediator.TextBox.java
-package designpatterns.mediator;
+package com.designpatterns.mediator;
 
 //文本框类：具体同事类
 public class TextBox extends Component {

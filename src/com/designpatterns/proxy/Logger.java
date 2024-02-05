@@ -1,5 +1,5 @@
 //designpatterns.proxy.Logger.java
-package designpatterns.proxy;
+package com.designpatterns.proxy;
 
 //日志记录类：业务类
 public class Logger {

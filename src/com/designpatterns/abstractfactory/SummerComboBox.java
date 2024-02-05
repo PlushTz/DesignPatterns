@@ -1,5 +1,5 @@
 //designpatterns.abstractfactory.SummerComboBox.java
-package designpatterns.abstractfactory;
+package com.designpatterns.abstractfactory;
 
 public class SummerComboBox implements ComboBox {
 	public void display() {

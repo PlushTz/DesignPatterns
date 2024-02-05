@@ -1,5 +1,5 @@
 //designpatterns.cor.Manager.java
-package designpatterns.cor;
+package com.designpatterns.cor;
 
 //经理类：具体处理者
 public class Manager extends Approver {

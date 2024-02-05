@@ -1,5 +1,5 @@
 //designpatterns.prototype.shallowclone.Client.java
-package designpatterns.prototype.shallowclone;
+package com.designpatterns.prototype.shallowclone;
 
 public class Client {
 	public static void main(String args[]) {

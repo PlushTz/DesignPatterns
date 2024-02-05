@@ -1,5 +1,5 @@
 //designpatterns.abstractfactory.TextField.java
-package designpatterns.abstractfactory;
+package com.designpatterns.abstractfactory;
 
 public interface TextField {
 	public void display();

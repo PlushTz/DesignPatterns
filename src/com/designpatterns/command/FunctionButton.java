@@ -1,4 +1,4 @@
-package designpatterns.command;
+package com.designpatterns.command;
 
 //功能键类：请求发送者
 public class FunctionButton {

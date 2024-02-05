@@ -1,5 +1,5 @@
 //designpatterns.facade.FileWriter.java
-package designpatterns.facade;
+package com.designpatterns.facade;
 import java.io.FileOutputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;

@@ -1,5 +1,5 @@
 //designpatterns.builder.XMLUtil.java
-package designpatterns.builder;
+package com.designpatterns.builder;
 
 import javax.xml.parsers.*;
 import org.w3c.dom.*;

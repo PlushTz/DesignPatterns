@@ -1,5 +1,5 @@
 //designpatterns.composite.VideoFile.java
-package designpatterns.composite;
+package com.designpatterns.composite;
 
 public class VideoFile extends AbstractFile {
 	private String name;

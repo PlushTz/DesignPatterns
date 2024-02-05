@@ -1,5 +1,5 @@
 //designpatterns.command.calculator.AddCommand;
-package designpatterns.command.calculator;
+package com.designpatterns.command.calculator;
 
 //¾ßÌåÃüÁîÀà
 public class AddCommand extends AbstractCommand {

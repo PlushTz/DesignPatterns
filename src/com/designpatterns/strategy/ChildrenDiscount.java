@@ -1,5 +1,5 @@
 //designpatterns.strategy.ChildrenDiscount.java
-package designpatterns.strategy;
+package com.designpatterns.strategy;
 
 //儿童票折扣类：具体策略类
 public class ChildrenDiscount implements Discount {

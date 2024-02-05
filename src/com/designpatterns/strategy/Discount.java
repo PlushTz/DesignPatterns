@@ -1,5 +1,5 @@
 //designpatterns.strategy.Discount.java
-package designpatterns.strategy;
+package com.designpatterns.strategy;
 
 //折扣类：抽象策略类
 public interface Discount {

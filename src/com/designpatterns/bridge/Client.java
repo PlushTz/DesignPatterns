@@ -1,5 +1,5 @@
 //designpatterns.bridge.Client.java
-package designpatterns.bridge;
+package com.designpatterns.bridge;
 
 //¿Í»§¶Ë²âÊÔÀà
 public class Client {

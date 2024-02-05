@@ -1,5 +1,5 @@
 //designpatterns.state.screen.LargestState.java
-package designpatterns.state.screen;
+package com.designpatterns.state.screen;
 
 //四倍状态类：具体状态类
 public class LargestState extends ScreenState {

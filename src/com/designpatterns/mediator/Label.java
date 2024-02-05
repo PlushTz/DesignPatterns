@@ -1,6 +1,6 @@
 //文本标签类：具体同事类
 //designpatterns.mediator.Label.java
-package designpatterns.mediator;
+package com.designpatterns.mediator;
 
 public class Label extends Component {
 	public void update() {

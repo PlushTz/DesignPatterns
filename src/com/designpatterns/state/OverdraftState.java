@@ -1,5 +1,5 @@
 //designpatterns.state.OverdraftState.java
-package designpatterns.state;
+package com.designpatterns.state;
 
 //透支状态：具体状态类
 public class OverdraftState extends AccountState {

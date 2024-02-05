@@ -1,12 +1,12 @@
 //designpatterns.flyweight.extend.IgoChessman.java
-package designpatterns.flyweight.extend;
+package com.designpatterns.flyweight.extend;
 
-//Î§ÆåÆå×ÓÀà£º³éÏóÏíÔªÀà
+//Î§ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½à£ºï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ôªï¿½ï¿½
 public abstract class IgoChessman {
 	public abstract String getColor();
 	
 	public void display(Coordinates coord){
-		System.out.println("Æå×ÓÑÕÉ«£º" + this.getColor() + "£¬Æå×ÓÎ»ÖÃ£º" + coord.getX() + "£¬" + coord.getY() );	
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É«ï¿½ï¿½" + this.getColor() + "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Î»ï¿½Ã£ï¿½" + coord.getX() + "ï¿½ï¿½" + coord.getY() );	
 	}
 }
 

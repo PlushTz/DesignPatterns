@@ -1,5 +1,5 @@
 //designpatterns.mediator.List.java
-package designpatterns.mediator;
+package com.designpatterns.mediator;
 
 //列表框类：具体同事类
 public class List extends Component {

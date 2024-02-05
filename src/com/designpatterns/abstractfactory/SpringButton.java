@@ -1,5 +1,5 @@
 //designpatterns.abstractfactory.SpringButton.java
-package designpatterns.abstractfactory;
+package com.designpatterns.abstractfactory;
 
 public class SpringButton implements Button {
 	public void display() {

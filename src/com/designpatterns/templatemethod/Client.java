@@ -1,5 +1,5 @@
 //designpatterns.templatemethod.Client.java
-package designpatterns.templatemethod;
+package com.designpatterns.templatemethod;
 
 public class Client {
 	public static void main(String args[]) {

@@ -1,5 +1,5 @@
 //designpatterns.visitor.ParttimeEmployee.java
-package designpatterns.visitor;
+package com.designpatterns.visitor;
 
 //兼职员工类：具体元素类
 public class ParttimeEmployee implements Employee {

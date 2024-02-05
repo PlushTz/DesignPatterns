@@ -1,5 +1,5 @@
 //designpatterns.abstractfactory.SpringComboBox.java
-package designpatterns.abstractfactory;
+package com.designpatterns.abstractfactory;
 
 public class SpringComboBox implements ComboBox {
 	public void display() {

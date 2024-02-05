@@ -1,5 +1,5 @@
 //designpatterns.cor.Congress.java
-package designpatterns.cor;
+package com.designpatterns.cor;
 
 //董事会类：具体处理者
 public class Congress extends Approver {

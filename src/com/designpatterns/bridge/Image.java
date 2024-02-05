@@ -1,5 +1,5 @@
 //designpatterns.bridge.Image.java
-package designpatterns.bridge;
+package com.designpatterns.bridge;
 
 //抽象图像类，充当抽象类
 public abstract class Image {

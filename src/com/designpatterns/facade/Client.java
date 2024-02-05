@@ -1,5 +1,5 @@
 //designpatterns.facade.Client.java
-package designpatterns.facade;
+package com.designpatterns.facade;
 
 public class Client {
 	public static void main(String args[]) {

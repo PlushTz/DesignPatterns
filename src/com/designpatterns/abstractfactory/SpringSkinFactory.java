@@ -1,5 +1,5 @@
 //designpatterns.abstractfactory.SpringSkinFactory.java
-package designpatterns.abstractfactory;
+package com.designpatterns.abstractfactory;
 
 public class SpringSkinFactory implements SkinFactory {
 	public Button createButton() {

@@ -1,5 +1,5 @@
 //designpatterns.bridge.PNGImage.java
-package designpatterns.bridge;
+package com.designpatterns.bridge;
 
 //PNG格式图像类，充当扩充抽象类
 public class PNGImage extends Image {

@@ -1,5 +1,5 @@
 //designpatterns.command.calculator.AbstractCommand.java
-package designpatterns.command.calculator;
+package com.designpatterns.command.calculator;
 
 //³éÏóÃüÁîÀà
 public abstract class AbstractCommand {

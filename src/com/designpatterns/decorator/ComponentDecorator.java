@@ -1,5 +1,5 @@
 //designpatterns.decorator.ComponentDecorator.java
-package designpatterns.decorator;
+package com.designpatterns.decorator;
 
 public class ComponentDecorator extends Component {
 	private Component component;  //维持对抽象构件类型对象的引用
