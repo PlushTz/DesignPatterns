@@ -5,6 +5,7 @@ public class Person {
     private Integer age;
 
     public String getName() {
+        System.out.println("Name is " + name);
         return name;
     }
 
@@ -25,10 +26,12 @@ public class Person {
 
         public Builder() {
             person = new Person();
+            System.out.println("Person created");
         }
 
         public Builder setName(String name) {
             person.name = name;
+            System.out.println("Name set " + name);
             return this;
         }
 
@@ -38,6 +41,7 @@ public class Person {
         }
 
         public Person create() {
+            System.out.println("Person created");
             return person;
         }
     }
